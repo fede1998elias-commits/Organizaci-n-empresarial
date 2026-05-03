@@ -1,0 +1,16 @@
+producto,cantidad,precio,fecha_venta
+Notebook,2,150000,2025-01-05
+Monitor,3,75000,2025-01-18
+Teclado,5,12000,2025-02-02
+Mouse,8,8500,2025-02-14
+Notebook,1,150000,2025-02-27
+Impresora,2,45000,2025-03-08
+Monitor,1,75000,2025-03-21
+Teclado,4,12000,2025-03-30
+Mouse,6,8500,2025-04-05
+Notebook,3,150000,2025-04-17
+Auriculares,5,18000,2025-04-28
+Impresora,1,45000,2025-05-10
+Auriculares,3,18000,2025-05-22
+Mouse,10,8500,2025-06-03
+Monitor,2,75000,2025-06-18
