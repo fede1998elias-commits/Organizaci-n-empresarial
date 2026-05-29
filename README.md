@@ -1,6 +1,6 @@
 # Organización Empresarial — UTN
 
-Trabajo Práctico de análisis de datos empresariales para la materia **Organización Empresarial** de la Universidad Tecnológica Nacional.
+Análisis de datos de ventas con Python y pandas — visualización de KPIs y evolución mensual de ingresos.
 
 ## Descripción
 
