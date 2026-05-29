@@ -1,4 +1,4 @@
-# Organización Empresarial — UTN
+# Organización Empresarial 
 
 Análisis de datos de ventas con Python y pandas — visualización de KPIs y evolución mensual de ingresos.
 
